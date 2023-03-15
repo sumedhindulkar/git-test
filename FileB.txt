@@ -1,2 +1,1 @@
-This is File B
-UPDATED B
+This is updated file B in beta branch
